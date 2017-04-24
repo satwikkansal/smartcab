@@ -1,9 +1,7 @@
-<<<<<<< 0819930e706cb46bb6d6b0d153bc3088ef482f04
+
 # smartcab
 A self driving car simulation in python
 =======
-# Project 4: Reinforcement Learning
-## Train a Smartcab How to Drive
 
 ### Install
 
@@ -22,4 +20,4 @@ In a terminal or command window, navigate to the top-level project directory `sm
 ```python -m smartcab.agent```
 
 This will run the `agent.py` file and execute your agent code.
->>>>>>> Upload to github
+
